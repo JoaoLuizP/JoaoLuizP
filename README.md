@@ -6,4 +6,4 @@ Iai, Bem Vindo. Me chamo João Luiz Pinheiro
  
  > Em busca de novas experiências 🤝
 
- > Aprendendo HTML/CSS e C#  ✍
+ > Aprendendo Ruby  ✍
