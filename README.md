@@ -1,9 +1,8 @@
-Iai, Bem Vindo. Me chamo João Luiz Pinheiro
+Bem Vindo! Meu nome é João Luiz Pinheiro
 
- > Tentando ficar fera em Python e SQL 💪
- 
- > Em construçao do tao sonhado Projeto Sarah.py 👀
- 
- > Em busca de novas experiências 🤝
-
- > Aprendendo Ruby  ✍
+ > Se especializando em Python e SQL 💪
+ > Aprendendo Ruby e R  ✍
+ > Desenvolvedor de software júnior e graduando em engenharia da computação
+   ° Experiências como Analista de Desenvolvimento Python e Banco de Dados (PostgreSQL).
+   
+  
